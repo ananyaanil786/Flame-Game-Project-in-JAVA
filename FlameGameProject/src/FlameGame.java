@@ -37,8 +37,7 @@ class FlameGame {
             else{
                 idx++;
             }
-            if(flames_count == uncommon_char_count
-)
+            if(flames_count == uncommon_char_count)
             {   
                 int j = 0;
                 if(idx == 0)
