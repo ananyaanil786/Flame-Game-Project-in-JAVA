@@ -3,7 +3,7 @@ class FlameGame {
     public static void main(String args[])
     {
         Scanner scan = new Scanner(System.in);
-        // Getting the two strings
+        //Getting two string
         System.out.println("Enter your name: ");
         String name1 = scan.nextLine();
         System.out.println("Enter other name: ");
